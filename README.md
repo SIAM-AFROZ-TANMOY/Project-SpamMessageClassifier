@@ -1,4 +1,7 @@
-# 📩 Spam Message Detection using Machine Learning [click here to watch the Project video--->https://siam-afroz-tanmoy.github.io/Project-SpamMessageClassifier/
+# 📩 Spam Message Detection using Machine Learning
+
+🎥 **Project Demo Video:** ( click here to watch the Project video )
+👉 [Watch the Live Demo](https://siam-afroz-tanmoy.github.io/Project-SpamMessageClassifier/)
 
 A Machine Learning-based Spam Detection System that classifies messages as **Spam** or **Ham (Not Spam)** using **TF-IDF Vectorization** and **Multinomial Naive Bayes**. The project evaluates multiple datasets individually, merges them into a larger dataset, and analyzes the impact of dataset integration on classification performance.
 
